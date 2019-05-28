@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-dbutils-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaTest/libs/commons-dbutils-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///Volumes/Chris/Java基础/day30/day30_source/commons-dbutils-1.6/commons-dbutils-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
